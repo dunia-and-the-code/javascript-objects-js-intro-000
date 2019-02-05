@@ -1,7 +1,7 @@
 var playlist = {
-  MichealJackson: "Man in the Mirror",
-  FrankSinatra: "Fly me to the Moon",
-  RayCharles: "Hit the Road Jack",
+  My Bloody Valentine : "Sometimes", 
+  Phil Ochs : "Here's to the State of Mississippi",
+  
 }
 
 function updatePlaylist(object, string, value) {
