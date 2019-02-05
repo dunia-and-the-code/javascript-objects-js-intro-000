@@ -7,3 +7,5 @@ var playlist = {
 function updatePlaylist(object, string, value) {
   
 }
+
+function removeFromPlaylist()
