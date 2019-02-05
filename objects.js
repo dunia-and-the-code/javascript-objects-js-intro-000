@@ -4,7 +4,7 @@ var playlist = {
   Slowdive : "Alison",
 }
 
-function updatePlaylist(object, string, value) {
+function updatePlaylist(playlist, artistName, songTitle) {
   
 }
 
